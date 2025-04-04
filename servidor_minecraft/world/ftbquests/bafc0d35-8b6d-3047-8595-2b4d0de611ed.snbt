@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "bafc0d358b6d304785952b4d0de611ed"
+	name: "ZaCUBITY#bafc0d35"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
