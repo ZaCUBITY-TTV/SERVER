@@ -5375,3 +5375,17 @@ BCLib - Nether BiomeSource (5c4f0f4e)
 [05Apr2025 13:11:03.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Stacy Approves!]
 [05Apr2025 13:13:36.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Pumpkinhead!]
 [05Apr2025 13:14:04.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Jiggity-Jig]
+[05Apr2025 13:17:50.215] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Apr2025 13:17:50.224] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Apr2025 13:18:28.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SiamesePetEntity['Mittens'/6221, l='ServerLevel[world]', x=-713.58, y=66.00, z=-699.85] died: Mittens was slain by ZaCUBITY
+[05Apr2025 13:20:13.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Smells Interesting]
+[05Apr2025 13:24:27.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ZaCUBITY a server operator
+[05Apr2025 13:24:48.289] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 635 ms
+[05Apr2025 13:25:41.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZaCUBITY: Made ZaCUBITY no longer a server operator]
+[05Apr2025 13:27:53.180] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[05Apr2025 13:27:53.181] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[05Apr2025 13:27:53.277] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[05Apr2025 13:27:53.284] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[05Apr2025 13:29:36.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Flabbergasted!]
+[05Apr2025 13:29:55.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Castle]
+[05Apr2025 13:35:28.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Crops of the Wild]
