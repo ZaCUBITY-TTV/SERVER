@@ -3,9 +3,12 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: -495, y: 48, z: 351, time: 1743840599911L, xRot: 1.9503217f, yRot: 70.48865f }
+	last_seen: { dim: "minecraft:overworld", x: -934, y: 73, z: -415, time: 1743857405465L, xRot: 37.499928f, yRot: 86.40103f }
 	recording: "none"
-	teleport_history: [{ dim: "minecraft:overworld", x: -95, y: 62, z: 57, time: 1743839541585L }]
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: -95, y: 62, z: 57, time: 1743839541585L }
+		{ dim: "minecraft:overworld", x: -1063, y: 132, z: 489, time: 1743844695464L, xRot: 21.215963f, yRot: 178.80237f }
+	]
 	homes: { }
 	kit_use_times: { }
 }

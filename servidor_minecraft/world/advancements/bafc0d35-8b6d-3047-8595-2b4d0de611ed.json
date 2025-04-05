@@ -175,10 +175,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-04-05 09:18:56 +0000",
       "minecraft:dark_forest": "2025-04-05 07:40:55 +0000",
       "minecraft:sparse_jungle": "2025-04-05 08:03:47 +0000",
       "minecraft:river": "2025-04-05 08:03:37 +0000",
-      "minecraft:jungle": "2025-04-05 07:54:28 +0000"
+      "minecraft:grove": "2025-04-05 09:19:51 +0000",
+      "minecraft:jagged_peaks": "2025-04-05 09:20:33 +0000",
+      "minecraft:jungle": "2025-04-05 07:54:28 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-05 09:23:07 +0000",
+      "minecraft:meadow": "2025-04-05 09:20:34 +0000"
     },
     "done": false
   },
@@ -194,95 +199,58 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "log_spam_fixer": "2025-04-05 08:09:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 08:09:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 08:09:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 08:09:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 08:09:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 08:09:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 08:09:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 08:09:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 08:09:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 08:09:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 08:09:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 08:09:54 +0000"
-    },
-    "done": false
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-04-05 08:08:18 +0000"
+      "killed_by_something": "2025-04-05 07:50:31 +0000"
     },
     "done": true
   },
-  "lootr:social": {
+  "biomeswevegone:biomeswevegone/husbandry/root": {
     "criteria": {
-      "opened_chest": "2025-04-05 08:08:18 +0000"
+      "consumed_item": "2025-04-05 07:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2025-04-05 09:09:57 +0000",
+      "potato": "2025-04-05 09:14:39 +0000",
+      "bread": "2025-04-05 09:19:05 +0000",
+      "rotten_flesh": "2025-04-05 08:09:57 +0000",
+      "glow_berries": "2025-04-05 07:59:01 +0000",
+      "melon_slice": "2025-04-05 07:54:50 +0000",
+      "golden_carrot": "2025-04-05 08:09:20 +0000",
+      "beetroot": "2025-04-05 09:17:50 +0000",
+      "carrot": "2025-04-05 08:46:46 +0000"
     },
     "done": false
   },
-  "repurposed_structures:pyramids": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "in_pyramid_jungle": "2025-04-05 08:05:02 +0000"
+      "consumed_item": "2025-04-05 07:54:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:redwood_thicket": "2025-04-05 09:21:22 +0000",
+      "biomeswevegone:crag_gardens": "2025-04-05 08:01:35 +0000",
+      "biomeswevegone:fragment_jungle": "2025-04-05 07:55:27 +0000",
+      "biomeswevegone:sakura_grove": "2025-04-05 09:21:10 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-04-05 07:55:29 +0000",
+      "biomeswevegone:temperate_grove": "2025-04-05 09:20:56 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-04-05 09:21:29 +0000",
+      "biomeswevegone:ebony_woods": "2025-04-05 09:21:53 +0000",
+      "biomeswevegone:rose_fields": "2025-04-05 09:20:46 +0000",
+      "biomeswevegone:aspen_boreal": "2025-04-05 09:19:20 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:fragment_jungle": "2025-04-05 07:55:27 +0000"
+    },
+    "done": true
   },
   "minecraft:story/mine_stone": {
     "criteria": {
@@ -302,49 +270,14 @@
     },
     "done": true
   },
-  "apotheosis:affix/gem": {
-    "criteria": {
-      "gem": "2025-04-05 08:09:26 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
-    "criteria": {
-      "biomeswevegone:crag_gardens": "2025-04-05 08:01:35 +0000",
-      "biomeswevegone:fragment_jungle": "2025-04-05 07:55:27 +0000",
-      "biomeswevegone:enchanted_tangle": "2025-04-05 07:55:29 +0000"
-    },
-    "done": false
-  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "old_growth_woodland": "2025-04-05 08:39:52 +0000",
+      "rocky_rainforest": "2025-04-05 08:51:23 +0000",
+      "volcanic_plains": "2025-04-05 08:37:24 +0000",
       "rainforest": "2025-04-05 08:00:53 +0000"
     },
     "done": false
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-04-05 07:50:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:silverfish": "2025-04-05 08:05:41 +0000"
-    },
-    "done": false
-  },
-  "apotheosis:affix/rare_gem": {
-    "criteria": {
-      "gem": "2025-04-05 08:09:28 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/adventure/root": {
-    "criteria": {
-      "biomeswevegone:fragment_jungle": "2025-04-05 07:55:27 +0000"
-    },
-    "done": true
   },
   "inventorypets:1": {
     "criteria": {
@@ -352,17 +285,27 @@
     },
     "done": true
   },
-  "ars_nouveau:warp_scroll": {
+  "inventorypets:enderman": {
     "criteria": {
-      "has_warp_scroll": "2025-04-05 08:08:58 +0000"
+      "crafting_table": "2025-04-05 08:04:02 +0000"
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
+  "repurposed_structures:pyramids": {
     "criteria": {
-      "find_artifact": "2025-04-05 08:08:43 +0000"
+      "in_pyramid_jungle": "2025-04-05 08:05:02 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-04-05 12:59:39 +0000",
+      "minecraft:cave_spider": "2025-04-05 09:23:42 +0000",
+      "minecraft:silverfish": "2025-04-05 08:05:41 +0000",
+      "minecraft:zombie": "2025-04-05 09:42:14 +0000",
+      "minecraft:zombie_villager": "2025-04-05 08:51:31 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
@@ -370,36 +313,22 @@
     },
     "done": true
   },
-  "biomeswevegone:biomeswevegone/husbandry/root": {
+  "lootr:1chest": {
     "criteria": {
-      "consumed_item": "2025-04-05 07:54:50 +0000"
+      "opened_chest": "2025-04-05 08:08:18 +0000"
     },
     "done": true
   },
-  "apotheosis:affix/root": {
+  "lootr:social": {
     "criteria": {
-      "sword": "2025-04-05 08:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "rotten_flesh": "2025-04-05 08:09:57 +0000",
-      "glow_berries": "2025-04-05 07:59:01 +0000",
-      "melon_slice": "2025-04-05 07:54:50 +0000",
-      "golden_carrot": "2025-04-05 08:09:20 +0000"
+      "opened_barrel": "2025-04-05 08:40:17 +0000",
+      "opened_chest": "2025-04-05 08:08:18 +0000"
     },
     "done": false
   },
-  "minecraft:husbandry/root": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "consumed_item": "2025-04-05 07:54:50 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/chests": {
-    "criteria": {
-      "sword": "2025-04-05 08:09:28 +0000"
+      "find_artifact": "2025-04-05 08:08:43 +0000"
     },
     "done": true
   },
@@ -409,9 +338,277 @@
     },
     "done": true
   },
-  "inventorypets:enderman": {
+  "ars_nouveau:warp_scroll": {
     "criteria": {
-      "crafting_table": "2025-04-05 08:04:02 +0000"
+      "has_warp_scroll": "2025-04-05 08:08:58 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-04-05 08:09:26 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-04-05 08:09:28 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-04-05 08:09:28 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-04-05 08:09:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-04-05 08:36:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "sparse_redwoods": "2025-04-05 08:51:19 +0000",
+      "bamboo_forest": "2025-04-05 08:38:05 +0000",
+      "redwoods": "2025-04-05 08:37:18 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "sparse_redwoods": "2025-04-05 08:51:19 +0000",
+      "bamboo_forest": "2025-04-05 08:38:05 +0000",
+      "redwoods": "2025-04-05 08:37:18 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "bamboo_log": "2025-04-05 08:38:11 +0000"
+    },
+    "done": false
+  },
+  "idas:redhorn_guild": {
+    "criteria": {
+      "in_redhorn_guild": "2025-04-05 08:38:41 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-05 08:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-04-05 08:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-05 08:43:05 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-05 08:43:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-04-05 08:44:52 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_illager_manor": "2025-04-05 08:45:26 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_manor": "2025-04-05 08:45:26 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:adventure/find_illager_manor": {
+    "criteria": {
+      "nova_structures:illager_manor": "2025-04-05 08:45:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-04-05 08:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-05 08:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-05 08:47:39 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-04-05 08:51:31 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-04-05 08:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-05 08:51:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-05 08:53:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_jungle_monument": "2025-04-05 09:17:02 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_jungle_monument": "2025-04-05 09:17:02 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_jungle_monument": "2025-04-05 09:17:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ancient_civilizations": {
+    "criteria": {
+      "entered_jungle_monument": "2025-04-05 09:17:02 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:mooshroom": {
+    "criteria": {
+      "crafting_table": "2025-04-05 09:22:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-05 09:26:00 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-04-05 09:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-05 09:26:42 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:cobblestone": {
+    "criteria": {
+      "crafting_table": "2025-04-05 09:39:43 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:kill_cobble": {
+    "criteria": {
+      "example": "2025-04-05 09:40:32 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:qcm": {
+    "criteria": {
+      "crafting_table": "2025-04-05 09:42:10 +0000"
+    },
+    "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2025-04-05 09:43:59 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:potion_jar": {
+    "criteria": {
+      "has_potion_jar": "2025-04-05 09:46:38 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-04-05 09:47:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-04-05 09:47:03 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2025-04-05 12:55:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-05 12:57:29 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:shield": {
+    "criteria": {
+      "crafting_table": "2025-04-05 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:5": {
+    "criteria": {
+      "example": "2025-04-05 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-04-05 12:56:29 +0000"
     },
     "done": true
   },

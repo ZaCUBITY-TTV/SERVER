@@ -1,0 +1,222 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: "4F0EBF8BF39DE168"
+	icon: "ftbquests:book"
+	id: "74C3883189921BB9"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [""]
+			icon: "ftbquests:book"
+			id: "4613D9DEECA9C45C"
+			rewards: [{
+				id: "174616B3CD7E8DED"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Welcome to TheForgeAdventure"
+			tasks: [{
+				id: "4142254B242D9A7B"
+				title: "WELCOME"
+				type: "checkmark"
+			}]
+			title: "Welcome"
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4613D9DEECA9C45C"]
+			description: [
+				"In this modpack we have:"
+				"  -FTB teams"
+				"  -FTB chunks"
+				"  -FTB essentials"
+				"  -FTB ultimine"
+			]
+			icon: "lootr:trophy"
+			id: "674B58E91AE35A5D"
+			rewards: [{
+				id: "4560C9C643EB8217"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "FTB mods are one of the most useful mods"
+			tasks: [{
+				id: "7985C5B9B95F59E4"
+				title: "FTB Mods"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["674B58E91AE35A5D"]
+			description: ["While pressing key (º) or the bound key of your choice you are able to vein mine up to 64 blocks"]
+			icon: "artifacts:pickaxe_heater"
+			id: "0B0D910CF35801F1"
+			rewards: [{
+				id: "5787DED29E571B73"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1D10BD58A9A59A18"
+				title: "FTB ultimine"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["674B58E91AE35A5D"]
+			description: [
+				"FTB essentials adds a bunch of comands really useful, for example"
+				"  -/tpa: sends a tp request to someone"
+				"  -/back: really usefull so when you die you can go back"
+				"  -/home and /sethome: /sethome to set a home (max1) and /home to tp to that location"
+			]
+			icon: "enderstorage:ender_pouch"
+			id: "510CFC2EDD633B6A"
+			rewards: [{
+				id: "11B6B6F5805390C1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "16C5FDD20A603F15"
+				title: "FTB essentials"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["674B58E91AE35A5D"]
+			description: ["You are able to create a team to play with your friends, and this is good because if you use ftb chunks they are able to interact in the chunks (if not on the same team you wouldnt be able) and also lets you complete the quests together"]
+			icon: {
+				Count: 1
+				id: "alexscaves:diving_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2C9BE0BA9F17F3FA"
+			rewards: [{
+				id: "5AA6A001F19B4F8F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "561193E352F849D5"
+				title: "FTB teams"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["674B58E91AE35A5D"]
+			description: ["Allows you to claim chunks for you or your team so no one else is able to modify them, also allows you to force load a chunk to keep it loaded at all times"]
+			icon: "supplementaries:slice_map"
+			id: "13FD941C6862976A"
+			rewards: [{
+				id: "0C72F05BF060B624"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1A239B69181FBD9E"
+				title: "FTB chunks"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4613D9DEECA9C45C"]
+			description: ["Just use a lantern or a torch in your off-hand to emit light without the need of placing them"]
+			icon: "minecraft:lantern"
+			id: "04CFC5C4F350D2EF"
+			rewards: [{
+				id: "433B2D22FD7808AD"
+				item: "minecraft:lantern"
+				type: "item"
+			}]
+			subtitle: "This modpack contains the Dynamic Lights mod"
+			tasks: [{
+				id: "408A1F7AF1C23846"
+				title: "Lights"
+				type: "checkmark"
+			}]
+			title: "Dynamic lights"
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4613D9DEECA9C45C"]
+			icon: "twilightforest:ore_map"
+			id: "14443A80FAE8DA15"
+			rewards: [{
+				id: "1699EFACFD9DF0BB"
+				item: "artifacts:eternal_steak"
+				type: "item"
+			}]
+			subtitle: "This modpack is full of structures and biomes mods"
+			tasks: [{
+				id: "10B2361C0278D04C"
+				title: "Exploration"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4613D9DEECA9C45C"]
+			description: ["Since this modpack is full of structures with loot, you are going to need more space, a backpack is a great early game option, this can be upgraded as you progress in the modpack"]
+			icon: "sophisticatedbackpacks:backpack"
+			id: "02F64B446D8A557E"
+			rewards: [{
+				id: "12D62FA70DD45A7C"
+				item: "sophisticatedbackpacks:backpack"
+				type: "item"
+			}]
+			subtitle: "Your best companion"
+			tasks: [{
+				id: "5E4D1D5699596659"
+				item: "minecraft:lantern"
+				type: "item"
+			}]
+			title: "Backpacks"
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4613D9DEECA9C45C"]
+			description: ["This are a bunch of diferent items with differents effects which in exchange need to eat a determined food"]
+			icon: {
+				Count: 1
+				id: "inventorypets:pet_meta"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2EDCF60F829326FC"
+			rewards: [{
+				id: "735F8A802F1ABBFE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4F238515F0FFEAD1"
+				title: "Inventory pets"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+	]
+	title: "WELCOME"
+}

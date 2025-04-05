@@ -1,0 +1,7 @@
+{
+	chapter_groups: [
+		{ id: "4F0EBF8BF39DE168", title: "START" }
+		{ id: "02D38431EDE5EE37", title: "EXPLORATION AND BOSSES" }
+		{ id: "127F5595AFDC1856", title: "STORAGE AND STUFF" }
+	]
+}

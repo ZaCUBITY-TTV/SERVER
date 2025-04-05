@@ -1,0 +1,875 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cataclysm"
+	group: "02D38431EDE5EE37"
+	icon: "cataclysm:flame_eye"
+	id: "5FE7EB4585C7F700"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "cataclysm:altar_of_fire"
+			id: "2BA49CEF0C5C253E"
+			rewards: [{
+				id: "6C3532A553E87320"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "A great mod."
+			tasks: [{
+				id: "1F38E5F5FA537DD5"
+				title: "L_Ender's Cataclysm"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2BA49CEF0C5C253E"]
+			id: "79000F5F938E7E42"
+			rewards: [
+				{
+					id: "782DF8B02CBD9F15"
+					item: "cataclysm:mech_eye"
+					type: "item"
+				}
+				{
+					id: "5203250C334A7ED9"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			subtitle: "This will help you find The Harbinger"
+			tasks: [{
+				id: "3D42C8D7DCBD3040"
+				item: "cataclysm:mech_eye"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["79000F5F938E7E42"]
+			icon: "traveloptics:last_glow"
+			id: "0C283DF5928F2ACC"
+			rewards: [
+				{
+					id: "6D0AFE4A86E45F3F"
+					item: "cataclysm:music_disc_the_harbinger"
+					type: "item"
+				}
+				{
+					id: "5134BE493A233C77"
+					item: "cataclysm:witherite_block"
+					type: "item"
+				}
+				{
+					id: "69E575930A012DEA"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "0872A6A01ABB9DD0"
+					item: "traveloptics:last_glow"
+					type: "item"
+				}
+			]
+			subtitle: "Good luck!"
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				icon: "cataclysm:the_harbinger_spawn_egg"
+				id: "0F8A09B30655BBC7"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The Harbinger"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2BA49CEF0C5C253E"]
+			id: "421BF09AA110F85E"
+			subtitle: "This will help you find Ignis"
+			tasks: [{
+				id: "161225A703A5BB4C"
+				item: "cataclysm:flame_eye"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["183EEE6220F0F1D8"]
+			icon: "cataclysm:the_incinerator"
+			id: "7DAFA1D6BA323A0F"
+			rewards: [{
+				count: 9
+				id: "2FD6DE376FC9935F"
+				item: "cataclysm:ignitium_ingot"
+				type: "item"
+			}]
+			subtitle: "Good luck!"
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: "cataclysm:ignis_spawn_egg"
+				id: "10B893C3AEE4F38F"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Ignis"
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2BA49CEF0C5C253E"]
+			id: "7DD55D1964F9C597"
+			subtitle: "This will help you find the ender golem and guardian"
+			tasks: [{
+				id: "12B6C919349C0448"
+				item: "cataclysm:void_eye"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2BA49CEF0C5C253E"]
+			id: "4933FA9157BDC281"
+			subtitle: "This will help you find the netherite monstrosity"
+			tasks: [{
+				id: "392408FE26C89E94"
+				item: "cataclysm:monstrous_eye"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2BA49CEF0C5C253E"]
+			id: "1FB4EEB0B07E7FB3"
+			tasks: [{
+				id: "779DCEF7BEA19C91"
+				item: "cataclysm:abyss_eye"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2BA49CEF0C5C253E"]
+			id: "7A0D3EEED8197A15"
+			tasks: [{
+				id: "0D65300678C71D66"
+				item: "cataclysm:desert_eye"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2BA49CEF0C5C253E"]
+			id: "3E3115EAD270CC99"
+			tasks: [{
+				id: "55A59E3DA80E5C96"
+				item: "cataclysm:cursed_eye"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4933FA9157BDC281"]
+			id: "11FD88858E77A002"
+			rewards: [
+				{
+					id: "35D3950D9C9E6712"
+					item: "minecraft:netherite_block"
+					type: "item"
+				}
+				{
+					id: "3202ED5DDE895FDA"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Good luck!"
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				icon: "cataclysm:netherite_effigy"
+				id: "6C0C4D42AAD87D13"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Netherite monstrosity"
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["11FD88858E77A002"]
+			id: "7C373C566C680075"
+			rewards: [{
+				id: "636C5B845210FFEC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2808FEF4E8A4EFD6"
+				item: {
+					Count: 1
+					id: "cataclysm:monstrous_helm"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["11FD88858E77A002"]
+			id: "682C7715C3A09AF5"
+			rewards: [{
+				id: "2616436C8962F8C0"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2D5A25DC8BD6608A"
+				item: {
+					Count: 1
+					id: "cataclysm:infernal_forge"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3E3115EAD270CC99"]
+			id: "006A90545CFC2856"
+			rewards: [
+				{
+					count: 5
+					id: "5582077ADB60B53F"
+					item: "cataclysm:cursium_ingot"
+					type: "item"
+				}
+				{
+					id: "5E8D3BDDBD4C191A"
+					item: "cataclysm:music_disc_maledictus"
+					type: "item"
+				}
+				{
+					id: "6DA12B4ECEA5A223"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				icon: "cataclysm:the_annihilator"
+				id: "14C8A629C357BC36"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Maledictus"
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			id: "33C07F7B17C82CA9"
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "1101E8FB97993936"
+				type: "kill"
+				value: 100L
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3B4D415BE2FC85CE"]
+			id: "2C259B9D07ABD72D"
+			rewards: [
+				{
+					count: 32
+					id: "2304ED3143C93258"
+					item: "cataclysm:blessed_amethyst_crab_meat"
+					type: "item"
+				}
+				{
+					id: "4A39E5261DBC93E3"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: "cataclysm:abyssal_sacrifice"
+				id: "67C04A6AE090BC0E"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The Leviathan"
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DD55D1964F9C597"]
+			icon: "cataclysm:gauntlet_of_guard"
+			id: "1DE4EC8BBE4B4645"
+			rewards: [
+				{
+					id: "52E6395C3CA6FE9C"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 32
+					id: "6C31878A28498E91"
+					item: "cataclysm:void_scatter_arrow"
+					type: "item"
+				}
+			]
+			subtitle: "Good luck!"
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				id: "66E4877B3BFB6D94"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Ender guardian"
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7DD55D1964F9C597"]
+			icon: "cataclysm:void_core"
+			id: "58D884EE2B540B01"
+			rewards: [
+				{
+					id: "2EB0B3B3D523CAC5"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "5EE6D1CA2097BEF7"
+					item: "cataclysm:void_core"
+					type: "item"
+				}
+			]
+			subtitle: "Good luck!"
+			tasks: [{
+				entity: "cataclysm:ender_golem"
+				id: "115806EB593112B0"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Ender golem"
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["58D884EE2B540B01"]
+			id: "74F950A144DA72DB"
+			rewards: [{
+				id: "245CCA376483CBC8"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "7EE5157D5821F9E4"
+				item: "cataclysm:void_core"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"74F950A144DA72DB"
+				"236914FFDD797CA0"
+			]
+			id: "77467846B1BE03B9"
+			tasks: [{
+				id: "51FAF3DDF0543C84"
+				item: "cataclysm:void_assault_shoulder_weapon"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"74F950A144DA72DB"
+				"682C7715C3A09AF5"
+			]
+			id: "405B98C0E2B6CE1B"
+			tasks: [{
+				id: "157929CEC68C5FF5"
+				item: {
+					Count: 1
+					id: "cataclysm:void_forge"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"7DAFA1D6BA323A0F"
+				"1DE4EC8BBE4B4645"
+			]
+			id: "11A0448B00B00DB7"
+			rewards: [
+				{
+					count: 32
+					id: "3940DBC9F69F8653"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "38907883164D89EB"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				id: "0A9D79660480A97E"
+				item: "cataclysm:gauntlet_of_bulwark"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1DE4EC8BBE4B4645"]
+			id: "73A39DA6769781F5"
+			rewards: [{
+				id: "52AAC15B809681F4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "526033CF2995EEC9"
+				item: "cataclysm:gauntlet_of_guard"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0C283DF5928F2ACC"]
+			id: "236914FFDD797CA0"
+			rewards: [{
+				id: "276804F7345177AF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4B5B08C2D246FF5F"
+				item: "cataclysm:wither_assault_shoulder_weapon"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["0C283DF5928F2ACC"]
+			id: "049E9EA76E5BC747"
+			rewards: [{
+				id: "3C82F79AD1A7CD63"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "55CE7A79C213D5D9"
+				item: "cataclysm:meat_shredder"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["0C283DF5928F2ACC"]
+			id: "104F50AB83AEF051"
+			rewards: [{
+				id: "0C170B970AFCD23D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "249DB4B12F21A310"
+				item: {
+					Count: 1
+					id: "cataclysm:laser_gatling"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["0C283DF5928F2ACC"]
+			id: "3A3567503DE6CFFB"
+			rewards: [{
+				id: "25AF61FAEF8359D1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3FC2A767E057BACF"
+				item: "traveloptics:elytra_jetpack_component"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0C283DF5928F2ACC"]
+			id: "6BE7E2BD3474F3EF"
+			rewards: [{
+				id: "047B86C9D0640D1F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "166FEA747FDF735D"
+				item: "cataclysm:mechanical_fusion_anvil"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7DAFA1D6BA323A0F"]
+			id: "2320952F9E715F28"
+			rewards: [{
+				id: "7097EEE9801E7983"
+				item: "cataclysm:ignitium_block"
+				type: "item"
+			}]
+			tasks: [{
+				id: "741E2D6664EB0550"
+				item: "cataclysm:ignitium_ingot"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2320952F9E715F28"]
+			id: "3A73CFF745B61425"
+			rewards: [{
+				id: "6735098BBB0A7814"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1AB7B69AB0D67599"
+				item: "cataclysm:bulwark_of_the_flame"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2320952F9E715F28"]
+			id: "5045C0F3F68A8CE0"
+			rewards: [{
+				id: "393B1BE70EFFAF2A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4B85D02D6F9DEA38"
+				item: "cataclysm:the_incinerator"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2320952F9E715F28"]
+			id: "227F061ECA6DF536"
+			rewards: [{
+				id: "606EEB4ABE8FAEAE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "33E1BD42073C2764"
+				item: "cataclysm:the_immolator"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2320952F9E715F28"]
+			id: "47BEC54174199F50"
+			rewards: [
+				{
+					count: 2
+					id: "4FCA5B0412D93F4B"
+					item: "cataclysm:ignitium_block"
+					type: "item"
+				}
+				{
+					id: "11616539CABBBCFF"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					id: "0AC3BB16061910DF"
+					item: {
+						Count: 1
+						id: "cataclysm:ignitium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "270985B2B50E087F"
+					item: {
+						Count: 1
+						id: "cataclysm:ignitium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3F4606F491B07105"
+					item: {
+						Count: 1
+						id: "cataclysm:ignitium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "74D185B8E33E2C23"
+					item: {
+						Count: 1
+						id: "cataclysm:ignitium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "571F42BB5FF6B2F8"
+					item: {
+						Count: 1
+						id: "cataclysm:ignitium_elytra_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "Ignitium armor"
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2320952F9E715F28"]
+			id: "28B61CA0EE69179F"
+			rewards: [{
+				id: "346DA6BF29AB517B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6A3D48FB1C2F8D7C"
+				item: "cataclysm:blazing_grips"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1FB4EEB0B07E7FB3"]
+			id: "3B4D415BE2FC85CE"
+			subtitle: "You need this to summon the leviathan"
+			tasks: [{
+				id: "5D761960BFB1D515"
+				item: "cataclysm:abyssal_sacrifice"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2C259B9D07ABD72D"]
+			id: "1DF296EF572CA602"
+			tasks: [{
+				id: "7E3BFEF825D9E355"
+				item: "cataclysm:tidal_claws"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2C259B9D07ABD72D"]
+			id: "718CF4ABBE6DDCC4"
+			tasks: [{
+				id: "41216920A2F5FF2C"
+				item: "cataclysm:abyssal_egg"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["006A90545CFC2856"]
+			id: "286021111E0E0C6A"
+			rewards: [{
+				id: "6CD952BB713F8C80"
+				item: "cataclysm:cursium_block"
+				type: "item"
+			}]
+			tasks: [{
+				id: "72E3633B8558F5D7"
+				item: "cataclysm:cursium_ingot"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["006A90545CFC2856"]
+			id: "347725CB681A25F6"
+			rewards: [{
+				id: "1282D1385102628C"
+				item: "cataclysm:black_steel_block"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5AC6F478026F3C62"
+				item: "cataclysm:black_steel_ingot"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"286021111E0E0C6A"
+				"347725CB681A25F6"
+			]
+			id: "697C6949CA2D1ACA"
+			rewards: [{
+				id: "65C385B282726A54"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6C23DB17A80A8C0C"
+				item: "cataclysm:the_annihilator"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"286021111E0E0C6A"
+				"347725CB681A25F6"
+			]
+			id: "468B77441E15DED0"
+			rewards: [{
+				id: "795922EA82646EB3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "404B17EACE1D7D2F"
+				item: "cataclysm:soul_render"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"286021111E0E0C6A"
+				"347725CB681A25F6"
+			]
+			id: "18AA55010050449B"
+			rewards: [{
+				id: "305A7CEECA2A967C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5B2DCEBE4EDEC906"
+				item: "cataclysm:wrath_of_the_desert"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"286021111E0E0C6A"
+				"347725CB681A25F6"
+			]
+			id: "56867F6265C08FF3"
+			rewards: [{
+				id: "2C8176800E526653"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "10083196E57EB8E5"
+				item: "cataclysm:cursed_bow"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["421BF09AA110F85E"]
+			id: "183EEE6220F0F1D8"
+			rewards: [{
+				id: "0BB8461FF2D53B11"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "You need this to summon Ignis"
+			tasks: [{
+				id: "41EF542BA288E688"
+				item: "cataclysm:burning_ashes"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+	]
+	title: "CATACLYSM"
+}

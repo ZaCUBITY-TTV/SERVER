@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "blue_skies"
+	group: "02D38431EDE5EE37"
+	icon: "blue_skies:everbright_portal"
+	id: "36A7E712E663221F"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	title: "BLUE SKIES"
+}

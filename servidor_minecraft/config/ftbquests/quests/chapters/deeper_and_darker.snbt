@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "deeper_and_darker"
+	group: "02D38431EDE5EE37"
+	icon: "deeperdarker:heart_of_the_deep"
+	id: "3D57A3212D6C9E2E"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+	title: "DEEPER AND DARKER"
+}

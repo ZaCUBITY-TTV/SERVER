@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mowzies_mobs"
+	group: "02D38431EDE5EE37"
+	icon: "mowziesmobs:wrought_helmet"
+	id: "6992F5AFDB1EB125"
+	order_index: 7
+	quest_links: [ ]
+	quests: [ ]
+	title: "MOWZIE'S MOBS"
+}

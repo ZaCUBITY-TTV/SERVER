@@ -1,0 +1,23 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "aether"
+	group: "02D38431EDE5EE37"
+	icon: "aether:aether_grass_block"
+	id: "69B32B0276B621E2"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "2BB9AC8D31684AEF"
+		tasks: [{
+			dimension: "aether:the_aether"
+			icon: "aether:aether_grass_block"
+			id: "433174A1AF66791F"
+			title: "The Aether"
+			type: "dimension"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "AETHER"
+}
