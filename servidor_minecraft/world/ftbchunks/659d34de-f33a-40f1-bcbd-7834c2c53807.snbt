@@ -1,0 +1,52 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 0L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: -40, z: -72, time: 1743859927245L }
+			{ x: -43, z: -75, time: 1743859927245L }
+			{ x: -42, z: -74, time: 1743859930312L }
+			{ x: -43, z: -73, time: 1743859927242L }
+			{ x: -42, z: -72, time: 1743859927245L }
+			{ x: -41, z: -72, time: 1743859927245L }
+			{ x: -43, z: -72, time: 1743859927245L }
+			{ x: -42, z: -73, time: 1743859930312L }
+			{ x: -41, z: -75, time: 1743859930312L }
+			{ x: -43, z: -74, time: 1743859927245L }
+			{ x: -42, z: -75, time: 1743859930312L }
+			{ x: -40, z: -73, time: 1743859927245L }
+			{ x: -41, z: -73, time: 1743859930312L }
+			{ x: -40, z: -75, time: 1743859930312L }
+			{ x: -40, z: -74, time: 1743859930312L }
+			{ x: -41, z: -74, time: 1743859930312L }
+		]
+	}
+	member_data: {
+		bafc0d35-8b6d-3047-8595-2b4d0de611ed: {
+			original_claims: {
+				"minecraft:overworld": [
+					{ x: -40, z: -72 }
+					{ x: -43, z: -75 }
+					{ x: -42, z: -74 }
+					{ x: -43, z: -73 }
+					{ x: -42, z: -72 }
+					{ x: -41, z: -72 }
+					{ x: -43, z: -72 }
+					{ x: -42, z: -73 }
+					{ x: -41, z: -75 }
+					{ x: -43, z: -74 }
+					{ x: -42, z: -75 }
+					{ x: -40, z: -73 }
+					{ x: -41, z: -73 }
+					{ x: -40, z: -75 }
+					{ x: -40, z: -74 }
+					{ x: -41, z: -74 }
+				]
+			}
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+	}
+}

@@ -216,6 +216,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-05 15:05:32 +0000",
       "honey_bottle": "2025-04-05 13:47:22 +0000",
       "baked_potato": "2025-04-05 09:09:57 +0000",
       "beef": "2025-04-05 13:52:30 +0000",
@@ -320,6 +321,7 @@
       "minecraft:spider": "2025-04-05 12:59:39 +0000",
       "minecraft:piglin_brute": "2025-04-05 14:56:39 +0000",
       "minecraft:creeper": "2025-04-05 14:21:13 +0000",
+      "minecraft:wither_skeleton": "2025-04-05 15:07:50 +0000",
       "minecraft:cave_spider": "2025-04-05 09:23:42 +0000",
       "minecraft:piglin": "2025-04-05 14:53:39 +0000",
       "minecraft:silverfish": "2025-04-05 08:05:41 +0000",
@@ -401,6 +403,7 @@
       "mycotoxic_undergrowth": "2025-04-05 14:46:09 +0000",
       "magnolia_highlands": "2025-04-05 13:29:06 +0000",
       "sparse_redwoods": "2025-04-05 08:51:19 +0000",
+      "glistering_meadow": "2025-04-05 15:14:57 +0000",
       "blackstone_basin": "2025-04-05 14:55:56 +0000",
       "bamboo_forest": "2025-04-05 08:38:05 +0000",
       "redwoods": "2025-04-05 08:37:18 +0000",
@@ -789,7 +792,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:infernal_dunes": "2025-04-05 14:42:06 +0000"
+      "incendium:infernal_dunes": "2025-04-05 14:42:06 +0000",
+      "incendium:weeping_valley": "2025-04-05 15:14:36 +0000"
     },
     "done": false
   },
@@ -808,7 +812,8 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-04-05 14:46:09 +0000",
-      "blackstone_basin": "2025-04-05 14:55:56 +0000"
+      "blackstone_basin": "2025-04-05 14:55:56 +0000",
+      "glistering_meadow": "2025-04-05 15:14:57 +0000"
     },
     "done": false
   },
@@ -827,7 +832,8 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:bone_reef": "2025-04-05 14:58:20 +0000",
-      "betternether:crimson_pinewood": "2025-04-05 14:49:52 +0000"
+      "betternether:crimson_pinewood": "2025-04-05 14:49:52 +0000",
+      "betternether:sulfuric_bone_reef": "2025-04-05 15:12:16 +0000"
     },
     "done": false
   },
@@ -876,6 +882,24 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-04-05 15:03:33 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:illuminati": {
+    "criteria": {
+      "crafting_table": "2025-04-05 15:06:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2025-04-05 15:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-04-05 15:18:53 +0000"
     },
     "done": true
   },

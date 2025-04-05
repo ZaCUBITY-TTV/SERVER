@@ -2,9 +2,7 @@
 	id: "bafc0d35-8b6d-3047-8595-2b4d0de611ed"
 	type: "player"
 	player_name: "ZaCUBITY"
-	ranks: {
-		bafc0d35-8b6d-3047-8595-2b4d0de611ed: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "ZaCUBITY"
 		"ftbteams:description": ""
