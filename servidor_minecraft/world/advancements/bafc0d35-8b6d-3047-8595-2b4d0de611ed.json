@@ -284,6 +284,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "old_growth_woodland": "2025-04-05 08:39:52 +0000",
+      "withered_abyss": "2025-04-05 14:44:43 +0000",
       "rocky_rainforest": "2025-04-05 08:51:23 +0000",
       "volcanic_plains": "2025-04-05 08:37:24 +0000",
       "rainforest": "2025-04-05 08:00:53 +0000"
@@ -312,6 +313,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-05 13:17:39 +0000",
+      "minecraft:blaze": "2025-04-05 14:44:11 +0000",
       "minecraft:skeleton": "2025-04-05 14:18:03 +0000",
       "minecraft:vindicator": "2025-04-05 13:17:42 +0000",
       "minecraft:spider": "2025-04-05 12:59:39 +0000",
@@ -717,6 +719,84 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-04-05 14:32:15 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-04-05 14:36:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-05 14:42:50 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-04-05 14:36:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-04-05 14:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-05 14:41:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-04-05 14:42:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-05 14:41:42 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-04-05 14:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-05 14:41:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-04-05 14:42:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-04-05 14:42:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-04-05 14:44:11 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "double_flower": "2025-04-05 14:36:43 +0000"
     },
     "done": true
   },
