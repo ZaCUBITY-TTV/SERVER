@@ -600,6 +600,12 @@
     },
     "done": true
   },
+  "inventorypets:furnace": {
+    "criteria": {
+      "crafting_table": "2025-04-05 14:06:42 +0000"
+    },
+    "done": true
+  },
   "totw_modded:regular_tower": {
     "criteria": {
       "regular": "2025-04-05 12:55:40 +0000"
@@ -609,6 +615,12 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-04-05 12:57:29 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:craftingtable": {
+    "criteria": {
+      "crafting_table": "2025-04-05 14:10:13 +0000"
     },
     "done": true
   },
@@ -675,6 +687,12 @@
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2025-04-05 12:56:29 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:10": {
+    "criteria": {
+      "example": "2025-04-05 14:06:42 +0000"
     },
     "done": true
   },

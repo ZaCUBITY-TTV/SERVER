@@ -5391,3 +5391,6 @@ BCLib - Nether BiomeSource (5c4f0f4e)
 [05Apr2025 13:35:28.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Crops of the Wild]
 [05Apr2025 14:06:42.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Pet Researcher]
 [05Apr2025 14:06:42.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Cooking with Nuggets]
+[05Apr2025 14:10:13.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [So Crafty]
+[05Apr2025 14:13:56.023] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[05Apr2025 14:13:56.023] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
