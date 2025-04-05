@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-04-05 19:00:15 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:aspen_boreal": "2025-04-05 18:02:26 +0000",
@@ -413,6 +419,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-05 18:07:48 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-04-05 19:00:11 +0000"
     },
     "done": true
   },
@@ -494,6 +506,12 @@
     },
     "done": true
   },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "in_witch_hut_oak": "2025-04-05 19:04:00 +0000"
+    },
+    "done": false
+  },
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-04-05 18:03:37 +0000"
@@ -519,15 +537,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-05 19:03:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-05 18:47:22 +0000"
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-04-05 19:06:38 +0000"
+    },
+    "done": false
+  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-04-05 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:sun": {
+    "criteria": {
+      "crafting_table": "2025-04-05 19:05:22 +0000"
     },
     "done": true
   },
