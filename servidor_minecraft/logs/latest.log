@@ -5620,3 +5620,22 @@ BCLib - Nether BiomeSource (60df8d59)
 [05Apr2025 18:03:37.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Suit Up]
 [05Apr2025 18:03:40.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has reached the goal [Worthy Equipment]
 [05Apr2025 18:03:46.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Not a Diamond]
+[05Apr2025 18:04:22.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Monster Hunter]
+[05Apr2025 18:05:58.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Stone Age]
+[05Apr2025 18:06:21.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Getting an Upgrade]
+[05Apr2025 18:07:13.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Take Aim]
+[05Apr2025 18:07:48.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Sweet Dreams]
+[05Apr2025 18:08:14.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Call For Adventure]
+[05Apr2025 18:08:16.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Far From Perfect]
+[05Apr2025 18:09:12.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Mine? Mine? Mine?]
+[05Apr2025 18:10:23.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Acquire Hardware]
+[05Apr2025 18:12:20.575] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[05Apr2025 18:12:20.576] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[05Apr2025 18:12:46.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Barrel Booty]
+[05Apr2025 18:14:41.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2334, l='ServerLevel[world]', x=-647.70, y=69.00, z=-1159.30] died, message: 'Unemployed was slain by Zombie'
+[05Apr2025 18:14:55.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Crops of the Wild]
+[05Apr2025 18:17:20.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Surge Protector]
+[05Apr2025 18:17:46.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Jessica the Angry'/11038, l='ServerLevel[world]', x=-288.99, y=77.00, z=-753.70] died: Jessica the Angry was slain by benomgwar
+[05Apr2025 18:17:52.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has completed the challenge [He Wasn't So Strong]
+[05Apr2025 18:19:13.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Disme A Dozen]
+[05Apr2025 18:22:21.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Castle]

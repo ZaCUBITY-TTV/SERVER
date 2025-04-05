@@ -4,8 +4,15 @@
 	name: "benomgwar#1c39d05b"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
+	task_progress: {
+		1101E8FB97993936: 6
+	}
+	started: {
+		1101E8FB97993936: 1743876879304L
+		33C07F7B17C82CA9: 1743876879304L
+		5FE7EB4585C7F700: 1743876879304L
+		0000000000000001: 1743876879304L
+	}
 	completed: { }
 	claimed_rewards: { }
 	player_data: { }
