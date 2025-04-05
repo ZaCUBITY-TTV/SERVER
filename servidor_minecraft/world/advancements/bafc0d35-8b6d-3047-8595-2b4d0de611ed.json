@@ -293,6 +293,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_giant_tree_taiga": "2025-04-05 13:14:25 +0000",
       "in_pyramid_jungle": "2025-04-05 08:05:02 +0000"
     },
     "done": false
@@ -594,6 +595,18 @@
     },
     "done": true
   },
+  "inventorypets:snowgolem": {
+    "criteria": {
+      "crafting_table": "2025-04-05 13:13:36 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:siamese": {
+    "criteria": {
+      "crafting_table": "2025-04-05 13:11:03 +0000"
+    },
+    "done": true
+  },
   "inventorypets:shield": {
     "criteria": {
       "crafting_table": "2025-04-05 12:58:38 +0000"
@@ -603,6 +616,12 @@
   "inventorypets:5": {
     "criteria": {
       "example": "2025-04-05 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:house": {
+    "criteria": {
+      "crafting_table": "2025-04-05 13:14:04 +0000"
     },
     "done": true
   },
