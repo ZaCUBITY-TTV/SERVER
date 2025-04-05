@@ -5695,3 +5695,5 @@ BCLib - Nether BiomeSource (60df8d59)
 [05Apr2025 19:07:06.574] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23921, l='ServerLevel[world]', x=-472.50, y=82.00, z=-1189.50]
 [05Apr2025 19:07:25.124] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [05Apr2025 19:07:25.124] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[05Apr2025 19:28:10.224] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[05Apr2025 19:28:10.224] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
