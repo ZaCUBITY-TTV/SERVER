@@ -5490,3 +5490,56 @@ BCLib - Nether BiomeSource (5c4f0f4e)
 [05Apr2025 14:45:34.138] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/35095, l='ServerLevel[world]', x=-68.86, y=94.98, z=-144.45] died: Desert Blaze was slain by ZaCUBITY
 [05Apr2025 14:46:37.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY burned to death
 [05Apr2025 14:48:51.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Into Fire]
+[05Apr2025 14:50:49.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Cover Me with Diamonds]
+[05Apr2025 14:53:58.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY was fireballed by Blaze
+[05Apr2025 14:56:13.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Those Were the Days]
+[05Apr2025 14:56:53.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [War Pigs]
+[05Apr2025 14:57:14.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [It Belongs in a Museum]
+[05Apr2025 14:58:15.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Oh Shiny]
+[05Apr2025 14:58:20.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY fell from a high place
+[05Apr2025 14:59:08.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY lost connection: Timed out
+[05Apr2025 14:59:08.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY left the game
+[05Apr2025 14:59:08.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ZaCUBITY
+[05Apr2025 14:59:35.499] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Apr2025 14:59:35.509] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Apr2025 14:59:35.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZaCUBITY[/127.105.226.179:56681] logged in with entity id 41051 at (-242.12978243725138, 61.0, -154.66872871406107)
+[05Apr2025 14:59:35.512] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZaCUBITY
+[05Apr2025 14:59:35.512] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZaCUBITY
+[05Apr2025 14:59:35.513] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZaCUBITY
+[05Apr2025 14:59:35.513] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZaCUBITY
+[05Apr2025 14:59:35.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZaCUBITY
+[05Apr2025 14:59:35.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZaCUBITY
+[05Apr2025 14:59:35.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZaCUBITY
+[05Apr2025 14:59:35.535] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Apr2025 14:59:35.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY joined the game
+[05Apr2025 14:59:35.603] [Server thread/INFO] [Jade/]: Syncing config to ZaCUBITY (bafc0d35-8b6d-3047-8595-2b4d0de611ed)
+[05Apr2025 14:59:36.100] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ZaCUBITY (18)
+[05Apr2025 14:59:36.101] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ZaCUBITY
+[05Apr2025 14:59:36.101] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05Apr2025 14:59:36.101] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05Apr2025 14:59:36.102] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05Apr2025 14:59:36.102] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05Apr2025 14:59:36.102] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05Apr2025 14:59:36.102] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05Apr2025 14:59:36.102] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05Apr2025 14:59:36.102] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05Apr2025 14:59:36.103] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05Apr2025 14:59:36.103] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05Apr2025 14:59:36.103] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05Apr2025 14:59:36.103] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05Apr2025 14:59:36.103] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05Apr2025 14:59:36.103] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05Apr2025 14:59:36.103] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05Apr2025 14:59:36.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05Apr2025 14:59:36.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05Apr2025 14:59:36.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER/servidor_minecraft/bclib-sync (allowDelete=true)
+[05Apr2025 15:00:43.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Who is Cutting Onions?]
+[05Apr2025 15:02:08.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZaCUBITY: You've eaten 25 unique foods!]
+[05Apr2025 15:02:08.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZaCUBITY: You sadly cannot gain any more health from trying new foods.]
+[05Apr2025 15:03:33.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has completed the challenge [Centennial]
+[05Apr2025 15:04:18.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY was slain by Piglin Brute
+[05Apr2025 15:06:43.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [We're Watching]
+[05Apr2025 15:07:01.438] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Bony'/43568, l='ServerLevel[world]', x=-314.50, y=32.00, z=-130.00] died: Bony suffocated in a wall
+[05Apr2025 15:07:44.385] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['n00b'/43687, l='ServerLevel[world]', x=-308.88, y=35.00, z=-129.20] died: n00b hit the ground too hard
+[05Apr2025 15:07:50.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Invisible Friend'/43717, l='ServerLevel[world]', x=-310.65, y=33.00, z=-131.35] died: Invisible Friend was slain by ZaCUBITY
+[05Apr2025 15:08:16.183] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Bonehead'/43854, l='ServerLevel[world]', x=-314.50, y=32.00, z=-129.97] died: Bonehead suffocated in a wall

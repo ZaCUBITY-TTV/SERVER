@@ -283,6 +283,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "erupting_inferno": "2025-04-05 14:47:45 +0000",
       "old_growth_woodland": "2025-04-05 08:39:52 +0000",
       "withered_abyss": "2025-04-05 14:44:43 +0000",
       "rocky_rainforest": "2025-04-05 08:51:23 +0000",
@@ -317,8 +318,10 @@
       "minecraft:skeleton": "2025-04-05 14:18:03 +0000",
       "minecraft:vindicator": "2025-04-05 13:17:42 +0000",
       "minecraft:spider": "2025-04-05 12:59:39 +0000",
+      "minecraft:piglin_brute": "2025-04-05 14:56:39 +0000",
       "minecraft:creeper": "2025-04-05 14:21:13 +0000",
       "minecraft:cave_spider": "2025-04-05 09:23:42 +0000",
+      "minecraft:piglin": "2025-04-05 14:53:39 +0000",
       "minecraft:silverfish": "2025-04-05 08:05:41 +0000",
       "minecraft:zombie": "2025-04-05 09:42:14 +0000",
       "minecraft:zombie_villager": "2025-04-05 08:51:31 +0000"
@@ -395,8 +398,10 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "willow_forest": "2025-04-05 13:28:27 +0000",
+      "mycotoxic_undergrowth": "2025-04-05 14:46:09 +0000",
       "magnolia_highlands": "2025-04-05 13:29:06 +0000",
       "sparse_redwoods": "2025-04-05 08:51:19 +0000",
+      "blackstone_basin": "2025-04-05 14:55:56 +0000",
       "bamboo_forest": "2025-04-05 08:38:05 +0000",
       "redwoods": "2025-04-05 08:37:18 +0000",
       "lupine_plains": "2025-04-05 13:29:18 +0000"
@@ -728,15 +733,21 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-04-05 14:42:50 +0000"
-    },
-    "done": true
-  },
   "botania:main/root": {
     "criteria": {
       "flower": "2025-04-05 14:36:43 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-04-05 14:36:43 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "double_flower": "2025-04-05 14:36:43 +0000"
     },
     "done": true
   },
@@ -752,27 +763,21 @@
     },
     "done": true
   },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:infernal_dunes": "2025-04-05 14:42:06 +0000"
-    },
-    "done": true
-  },
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-04-05 14:41:42 +0000"
     },
     "done": true
   },
-  "botania:main/flower_pickup_lexicon": {
-    "criteria": {
-      "flower": "2025-04-05 14:36:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-05 14:41:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-04-05 14:42:06 +0000"
     },
     "done": true
   },
@@ -788,15 +793,89 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-05 14:42:50 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/dune_blaze": {
     "criteria": {
       "requirement": "2025-04-05 14:44:11 +0000"
     },
     "done": true
   },
-  "botania:main/flower_pickup": {
+  "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "double_flower": "2025-04-05 14:36:43 +0000"
+      "mycotoxic_undergrowth": "2025-04-05 14:46:09 +0000",
+      "blackstone_basin": "2025-04-05 14:55:56 +0000"
+    },
+    "done": false
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_crimson": "2025-04-05 14:48:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-05 14:48:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:bone_reef": "2025-04-05 14:58:20 +0000",
+      "betternether:crimson_pinewood": "2025-04-05 14:49:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-04-05 14:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-05 14:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-05 14:56:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-04-05 14:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-04-05 14:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-05 15:00:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-04-05 15:01:45 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-05 15:03:33 +0000"
     },
     "done": true
   },
