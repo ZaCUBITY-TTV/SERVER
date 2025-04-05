@@ -176,6 +176,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-04-05 09:18:56 +0000",
+      "minecraft:beach": "2025-04-05 14:26:02 +0000",
       "minecraft:dark_forest": "2025-04-05 07:40:55 +0000",
       "minecraft:sparse_jungle": "2025-04-05 08:03:47 +0000",
       "minecraft:river": "2025-04-05 08:03:37 +0000",
@@ -223,11 +224,13 @@
       "potato": "2025-04-05 09:14:39 +0000",
       "pumpkin_pie": "2025-04-05 13:37:27 +0000",
       "bread": "2025-04-05 09:19:05 +0000",
+      "golden_apple": "2025-04-05 14:34:24 +0000",
       "rotten_flesh": "2025-04-05 08:09:57 +0000",
       "glow_berries": "2025-04-05 07:59:01 +0000",
       "melon_slice": "2025-04-05 07:54:50 +0000",
       "golden_carrot": "2025-04-05 08:09:20 +0000",
       "beetroot": "2025-04-05 09:17:50 +0000",
+      "cooked_salmon": "2025-04-05 14:24:26 +0000",
       "carrot": "2025-04-05 08:46:46 +0000"
     },
     "done": false
@@ -309,8 +312,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-05 13:17:39 +0000",
+      "minecraft:skeleton": "2025-04-05 14:18:03 +0000",
       "minecraft:vindicator": "2025-04-05 13:17:42 +0000",
       "minecraft:spider": "2025-04-05 12:59:39 +0000",
+      "minecraft:creeper": "2025-04-05 14:21:13 +0000",
       "minecraft:cave_spider": "2025-04-05 09:23:42 +0000",
       "minecraft:silverfish": "2025-04-05 08:05:41 +0000",
       "minecraft:zombie": "2025-04-05 09:42:14 +0000",
@@ -445,7 +450,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-04-05 08:44:52 +0000"
+      "apple": "2025-04-05 08:44:52 +0000",
+      "golden_apple": "2025-04-05 14:34:19 +0000"
     },
     "done": false
   },
@@ -600,87 +606,9 @@
     },
     "done": true
   },
-  "inventorypets:furnace": {
-    "criteria": {
-      "crafting_table": "2025-04-05 14:06:42 +0000"
-    },
-    "done": true
-  },
   "totw_modded:regular_tower": {
     "criteria": {
       "regular": "2025-04-05 12:55:40 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-04-05 12:57:29 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:craftingtable": {
-    "criteria": {
-      "crafting_table": "2025-04-05 14:10:13 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:snowgolem": {
-    "criteria": {
-      "crafting_table": "2025-04-05 13:13:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2025-04-05 13:35:28 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:temples": {
-    "criteria": {
-      "in_temple_taiga": "2025-04-05 13:21:49 +0000"
-    },
-    "done": false
-  },
-  "inventorypets:siamese": {
-    "criteria": {
-      "crafting_table": "2025-04-05 13:11:03 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:shield": {
-    "criteria": {
-      "crafting_table": "2025-04-05 12:58:38 +0000"
-    },
-    "done": true
-  },
-  "idas:castle": {
-    "criteria": {
-      "in_castle": "2025-04-05 13:29:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/obtain_sniffer_egg": {
-    "criteria": {
-      "obtain_sniffer_egg": "2025-04-05 13:20:13 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:5": {
-    "criteria": {
-      "example": "2025-04-05 12:58:38 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:ghast": {
-    "criteria": {
-      "crafting_table": "2025-04-05 13:29:36 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:house": {
-    "criteria": {
-      "crafting_table": "2025-04-05 13:14:04 +0000"
     },
     "done": true
   },
@@ -690,9 +618,105 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-05 12:57:29 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:shield": {
+    "criteria": {
+      "crafting_table": "2025-04-05 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:5": {
+    "criteria": {
+      "example": "2025-04-05 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:siamese": {
+    "criteria": {
+      "crafting_table": "2025-04-05 13:11:03 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:snowgolem": {
+    "criteria": {
+      "crafting_table": "2025-04-05 13:13:36 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:house": {
+    "criteria": {
+      "crafting_table": "2025-04-05 13:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2025-04-05 13:20:13 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2025-04-05 13:21:49 +0000"
+    },
+    "done": false
+  },
+  "inventorypets:ghast": {
+    "criteria": {
+      "crafting_table": "2025-04-05 13:29:36 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2025-04-05 13:29:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-04-05 13:35:28 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:furnace": {
+    "criteria": {
+      "crafting_table": "2025-04-05 14:06:42 +0000"
+    },
+    "done": true
+  },
   "inventorypets:10": {
     "criteria": {
       "example": "2025-04-05 14:06:42 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:craftingtable": {
+    "criteria": {
+      "crafting_table": "2025-04-05 14:10:13 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:chicken": {
+    "criteria": {
+      "crafting_table": "2025-04-05 14:22:37 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2025-04-05 14:23:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-05 14:32:15 +0000"
     },
     "done": true
   },

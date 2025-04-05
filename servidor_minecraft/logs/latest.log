@@ -5394,3 +5394,60 @@ BCLib - Nether BiomeSource (5c4f0f4e)
 [05Apr2025 14:10:13.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [So Crafty]
 [05Apr2025 14:13:56.023] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [05Apr2025 14:13:56.023] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[05Apr2025 14:19:42.638] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[05Apr2025 14:19:43.394] [Server thread/INFO] [naturescompass/]: Search succeeded: 3710 radius, 3402 samples
+[05Apr2025 14:19:43.394] [Server thread/ERROR] [naturescompass/]: Invalid compass after search
+[05Apr2025 14:22:37.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Poultry in Motion]
+[05Apr2025 14:23:49.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [A trip to the Countryside]
+[05Apr2025 14:24:40.545] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30331, l='ServerLevel[world]', x=-367.50, y=77.00, z=-1512.50]
+[05Apr2025 14:25:01.873] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30484, l='ServerLevel[world]', x=-339.50, y=73.00, z=-1490.50]
+[05Apr2025 14:25:42.174] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30701, l='ServerLevel[world]', x=-369.50, y=72.00, z=-1368.50]
+[05Apr2025 14:25:59.821] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30797, l='ServerLevel[world]', x=-352.50, y=73.00, z=-1488.50]
+[05Apr2025 14:27:12.772] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31243, l='ServerLevel[world]', x=-368.50, y=79.00, z=-1498.50]
+[05Apr2025 14:27:24.673] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31274, l='ServerLevel[world]', x=-327.50, y=76.00, z=-1517.50]
+[05Apr2025 14:28:18.473] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31453, l='ServerLevel[world]', x=-312.50, y=72.00, z=-1424.50]
+[05Apr2025 14:28:28.924] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31515, l='ServerLevel[world]', x=-311.50, y=72.00, z=-1424.50]
+[05Apr2025 14:28:30.125] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31536, l='ServerLevel[world]', x=-298.50, y=72.00, z=-1448.50]
+[05Apr2025 14:28:33.373] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31549, l='ServerLevel[world]', x=-299.50, y=74.00, z=-1431.50]
+[05Apr2025 14:28:48.821] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31722, l='ServerLevel[world]', x=-369.50, y=72.00, z=-1367.50]
+[05Apr2025 14:32:15.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Mine? Mine? Mine?]
+[05Apr2025 14:32:31.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY lost connection: Timed out
+[05Apr2025 14:32:31.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY left the game
+[05Apr2025 14:32:31.193] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ZaCUBITY
+[05Apr2025 14:32:31.273] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Apr2025 14:33:49.754] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Apr2025 14:33:49.765] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Apr2025 14:33:49.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZaCUBITY[/127.105.226.179:38887] logged in with entity id 32984 at (-639.7555500892463, 53.0, -1408.035403605058)
+[05Apr2025 14:33:49.768] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZaCUBITY
+[05Apr2025 14:33:49.769] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZaCUBITY
+[05Apr2025 14:33:49.769] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZaCUBITY
+[05Apr2025 14:33:49.770] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZaCUBITY
+[05Apr2025 14:33:49.772] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZaCUBITY
+[05Apr2025 14:33:49.774] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZaCUBITY
+[05Apr2025 14:33:49.774] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZaCUBITY
+[05Apr2025 14:33:49.793] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Apr2025 14:33:49.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY joined the game
+[05Apr2025 14:33:49.845] [Server thread/INFO] [Jade/]: Syncing config to ZaCUBITY (bafc0d35-8b6d-3047-8595-2b4d0de611ed)
+[05Apr2025 14:33:50.513] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ZaCUBITY (18)
+[05Apr2025 14:33:50.513] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ZaCUBITY
+[05Apr2025 14:33:50.514] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05Apr2025 14:33:50.514] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05Apr2025 14:33:50.514] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05Apr2025 14:33:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05Apr2025 14:33:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05Apr2025 14:33:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05Apr2025 14:33:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05Apr2025 14:33:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05Apr2025 14:33:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05Apr2025 14:33:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05Apr2025 14:33:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05Apr2025 14:33:50.516] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05Apr2025 14:33:50.516] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05Apr2025 14:33:50.516] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05Apr2025 14:33:50.516] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05Apr2025 14:33:50.517] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05Apr2025 14:33:50.517] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05Apr2025 14:33:50.517] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER/servidor_minecraft/bclib-sync (allowDelete=true)
+[05Apr2025 14:35:49.223] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33526, l='ServerLevel[world]', x=-631.50, y=72.00, z=-1428.50]
+[05Apr2025 14:36:00.074] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33568, l='ServerLevel[world]', x=-673.50, y=73.00, z=-1454.50]
+[05Apr2025 14:36:43.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Sky of Beginning]
