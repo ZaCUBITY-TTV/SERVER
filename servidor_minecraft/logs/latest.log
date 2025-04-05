@@ -5697,3 +5697,8 @@ BCLib - Nether BiomeSource (60df8d59)
 [05Apr2025 19:07:25.124] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [05Apr2025 19:28:10.224] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [05Apr2025 19:28:10.224] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[05Apr2025 20:37:35.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benomgwar lost connection: Timed out
+[05Apr2025 20:37:35.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar left the game
+[05Apr2025 20:37:35.690] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benomgwar
+[05Apr2025 20:43:13.124] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[05Apr2025 20:43:13.124] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
