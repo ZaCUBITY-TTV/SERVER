@@ -5444,3 +5444,120 @@ BCLib - Nether BiomeSource (60df8d59)
 [05Apr2025 17:43:20.115] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [05Apr2025 17:43:20.115] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER/servidor_minecraft/bclib-sync (allowDelete=true)
 [05Apr2025 17:43:27.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZaCUBITY> yo
+[05Apr2025 17:43:47.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benomgwar lost connection: Disconnected
+[05Apr2025 17:43:47.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar left the game
+[05Apr2025 17:43:47.051] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benomgwar
+[05Apr2025 17:43:47.151] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Apr2025 17:46:20.869] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Apr2025 17:46:20.880] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Apr2025 17:46:20.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benomgwar[/127.6.157.212:37295] logged in with entity id 1787 at (-105.5, 77.0, 54.5)
+[05Apr2025 17:46:20.883] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to benomgwar
+[05Apr2025 17:46:20.884] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to benomgwar
+[05Apr2025 17:46:20.884] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to benomgwar
+[05Apr2025 17:46:20.884] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to benomgwar
+[05Apr2025 17:46:20.886] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to benomgwar
+[05Apr2025 17:46:20.888] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to benomgwar
+[05Apr2025 17:46:20.889] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to benomgwar
+[05Apr2025 17:46:20.908] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Apr2025 17:46:20.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar joined the game
+[05Apr2025 17:46:21.003] [Server thread/INFO] [Jade/]: Syncing config to benomgwar (1c39d05b-5a4d-3171-a4a2-4419a39d22fd)
+[05Apr2025 17:46:21.601] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benomgwar (18)
+[05Apr2025 17:46:21.602] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benomgwar
+[05Apr2025 17:46:21.602] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05Apr2025 17:46:21.602] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05Apr2025 17:46:21.603] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05Apr2025 17:46:21.603] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05Apr2025 17:46:21.603] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05Apr2025 17:46:21.603] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05Apr2025 17:46:21.603] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05Apr2025 17:46:21.604] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05Apr2025 17:46:21.604] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05Apr2025 17:46:21.604] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05Apr2025 17:46:21.604] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05Apr2025 17:46:21.604] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05Apr2025 17:46:21.604] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05Apr2025 17:46:21.604] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05Apr2025 17:46:21.604] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05Apr2025 17:46:21.605] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05Apr2025 17:46:21.605] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05Apr2025 17:46:21.605] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER/servidor_minecraft/bclib-sync (allowDelete=true)
+[05Apr2025 17:46:44.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZaCUBITY> tpa to me fast
+[05Apr2025 17:47:48.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZaCUBITY> ahfa
+[05Apr2025 17:47:57.824] [Netty Epoll Server IO #6/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Client requested 2 Files:
+[05Apr2025 17:47:57.825] [Netty Epoll Server IO #6/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- bclib.CONFIG_betternether.items
+[05Apr2025 17:47:57.825] [Netty Epoll Server IO #6/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- bclib.CONFIG_betternether.biomes
+[05Apr2025 17:47:57.850] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending 2 Files to Client:
+[05Apr2025 17:47:57.851] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- bclib.CONFIG_betternether.items (4.1 KiB)
+[05Apr2025 17:47:57.851] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- bclib.CONFIG_betternether.biomes (17.0 KiB)
+[05Apr2025 17:48:00.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benomgwar lost connection: Disconnected
+[05Apr2025 17:48:00.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar left the game
+[05Apr2025 17:48:00.199] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benomgwar
+[05Apr2025 17:48:02.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY lost connection: Disconnected
+[05Apr2025 17:48:02.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY left the game
+[05Apr2025 17:48:02.836] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ZaCUBITY
+[05Apr2025 17:49:21.065] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Apr2025 17:49:21.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Apr2025 17:49:21.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZaCUBITY[/127.105.226.179:36739] logged in with entity id 2302 at (-651.696358594954, 69.0, -1159.964506842787)
+[05Apr2025 17:49:21.080] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZaCUBITY
+[05Apr2025 17:49:21.080] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZaCUBITY
+[05Apr2025 17:49:21.080] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZaCUBITY
+[05Apr2025 17:49:21.081] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZaCUBITY
+[05Apr2025 17:49:21.082] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZaCUBITY
+[05Apr2025 17:49:21.084] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZaCUBITY
+[05Apr2025 17:49:21.084] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZaCUBITY
+[05Apr2025 17:49:21.103] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Apr2025 17:49:21.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY joined the game
+[05Apr2025 17:49:21.151] [Server thread/INFO] [Jade/]: Syncing config to ZaCUBITY (bafc0d35-8b6d-3047-8595-2b4d0de611ed)
+[05Apr2025 17:49:21.761] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ZaCUBITY (18)
+[05Apr2025 17:49:21.762] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ZaCUBITY
+[05Apr2025 17:49:21.762] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05Apr2025 17:49:21.763] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05Apr2025 17:49:21.763] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05Apr2025 17:49:21.764] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05Apr2025 17:49:21.764] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05Apr2025 17:49:21.764] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05Apr2025 17:49:21.765] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05Apr2025 17:49:21.765] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05Apr2025 17:49:21.766] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05Apr2025 17:49:21.766] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05Apr2025 17:49:21.766] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05Apr2025 17:49:21.766] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05Apr2025 17:49:21.766] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05Apr2025 17:49:21.766] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05Apr2025 17:49:21.766] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05Apr2025 17:49:21.766] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05Apr2025 17:49:21.766] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05Apr2025 17:49:21.766] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER/servidor_minecraft/bclib-sync (allowDelete=true)
+[05Apr2025 17:53:28.963] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Apr2025 17:53:28.973] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Apr2025 17:53:28.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benomgwar[/127.6.157.212:53857] logged in with entity id 2956 at (-105.5, 77.0, 54.5)
+[05Apr2025 17:53:28.976] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to benomgwar
+[05Apr2025 17:53:28.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to benomgwar
+[05Apr2025 17:53:28.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to benomgwar
+[05Apr2025 17:53:28.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to benomgwar
+[05Apr2025 17:53:28.979] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to benomgwar
+[05Apr2025 17:53:28.981] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to benomgwar
+[05Apr2025 17:53:28.981] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to benomgwar
+[05Apr2025 17:53:29.003] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Apr2025 17:53:29.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar joined the game
+[05Apr2025 17:53:29.092] [Server thread/INFO] [Jade/]: Syncing config to benomgwar (1c39d05b-5a4d-3171-a4a2-4419a39d22fd)
+[05Apr2025 17:53:32.296] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benomgwar (18)
+[05Apr2025 17:53:32.296] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benomgwar
+[05Apr2025 17:53:32.297] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05Apr2025 17:53:32.297] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05Apr2025 17:53:32.297] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05Apr2025 17:53:32.297] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05Apr2025 17:53:32.297] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05Apr2025 17:53:32.298] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05Apr2025 17:53:32.298] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05Apr2025 17:53:32.298] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05Apr2025 17:53:32.298] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05Apr2025 17:53:32.298] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05Apr2025 17:53:32.298] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05Apr2025 17:53:32.298] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05Apr2025 17:53:32.298] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05Apr2025 17:53:32.299] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05Apr2025 17:53:32.299] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05Apr2025 17:53:32.299] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05Apr2025 17:53:32.299] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05Apr2025 17:53:32.299] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER/servidor_minecraft/bclib-sync (allowDelete=true)

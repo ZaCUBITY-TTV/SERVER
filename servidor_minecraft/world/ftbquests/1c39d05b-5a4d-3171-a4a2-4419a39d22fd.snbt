@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "1c39d05b5a4d3171a4a24419a39d22fd"
+	name: "benomgwar#1c39d05b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
