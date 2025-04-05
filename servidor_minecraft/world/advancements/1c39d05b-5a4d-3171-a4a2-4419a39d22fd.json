@@ -181,6 +181,7 @@
       "minecraft:stony_shore": "2025-04-05 18:02:39 +0000",
       "minecraft:forest": "2025-04-05 18:02:44 +0000",
       "minecraft:ocean": "2025-04-05 18:02:08 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-05 18:22:12 +0000",
       "minecraft:plains": "2025-04-05 18:11:01 +0000"
     },
     "done": false
@@ -215,6 +216,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-04-05 18:29:54 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-04-05 18:12:46 +0000",
@@ -234,6 +241,12 @@
     },
     "done": false
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-05 18:29:54 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2025-04-05 18:03:40 +0000"
@@ -245,6 +258,14 @@
       "nova_structures:tavern_dark_oak": "2025-04-05 18:03:24 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "willow_forest": "2025-04-05 18:21:38 +0000",
+      "magnolia_highlands": "2025-04-05 18:21:57 +0000",
+      "lupine_plains": "2025-04-05 18:22:01 +0000"
+    },
+    "done": false
   },
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
@@ -273,6 +294,12 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-04-05 18:12:46 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-04-05 18:26:47 +0000"
     },
     "done": true
   },
@@ -319,6 +346,20 @@
     },
     "done": false
   },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "willow_forest": "2025-04-05 18:21:38 +0000",
+      "magnolia_highlands": "2025-04-05 18:21:57 +0000",
+      "lupine_plains": "2025-04-05 18:22:01 +0000"
+    },
+    "done": false
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2025-04-05 18:22:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-05 18:07:48 +0000"
@@ -337,6 +378,8 @@
       "minecraft:skeleton": "2025-04-05 18:12:27 +0000",
       "minecraft:vindicator": "2025-04-05 18:07:04 +0000",
       "minecraft:spider": "2025-04-05 18:14:35 +0000",
+      "minecraft:creeper": "2025-04-05 18:20:24 +0000",
+      "minecraft:witch": "2025-04-05 18:25:29 +0000",
       "minecraft:zombie": "2025-04-05 18:14:39 +0000"
     },
     "done": false

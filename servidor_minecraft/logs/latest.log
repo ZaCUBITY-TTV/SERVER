@@ -5639,3 +5639,6 @@ BCLib - Nether BiomeSource (60df8d59)
 [05Apr2025 18:17:52.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has completed the challenge [He Wasn't So Strong]
 [05Apr2025 18:19:13.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Disme A Dozen]
 [05Apr2025 18:22:21.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Castle]
+[05Apr2025 18:29:54.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [How'd You Get This?]
+[05Apr2025 18:29:54.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Isn't It Iron Pick]
+[05Apr2025 18:30:27.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/13944, l='ServerLevel[world]', x=-613.54, y=63.00, z=-1108.85] died: Undead Knight was slain by benomgwar
