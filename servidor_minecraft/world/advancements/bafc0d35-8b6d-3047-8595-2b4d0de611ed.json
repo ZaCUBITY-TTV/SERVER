@@ -909,6 +909,18 @@
     },
     "done": true
   },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2025-04-06 17:29:45 +0000"
+    },
+    "done": true
+  },
+  "botania:main/dirt_rod_craft": {
+    "criteria": {
+      "dirtrod": "2025-04-06 17:36:52 +0000"
+    },
+    "done": true
+  },
   "inventorypets:pixie": {
     "criteria": {
       "crafting_table": "2025-04-06 09:33:48 +0000"
