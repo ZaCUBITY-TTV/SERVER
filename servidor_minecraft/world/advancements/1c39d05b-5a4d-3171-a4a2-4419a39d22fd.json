@@ -638,6 +638,12 @@
     },
     "done": true
   },
+  "inventorypets:chicken": {
+    "criteria": {
+      "crafting_table": "2025-04-06 19:55:20 +0000"
+    },
+    "done": true
+  },
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-04-06 19:41:18 +0000"
@@ -653,6 +659,18 @@
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-04-06 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:pixie": {
+    "criteria": {
+      "crafting_table": "2025-04-06 19:56:17 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:siamese": {
+    "criteria": {
+      "crafting_table": "2025-04-06 19:51:10 +0000"
     },
     "done": true
   },
@@ -699,6 +717,12 @@
     },
     "done": true
   },
+  "inventorypets:5": {
+    "criteria": {
+      "example": "2025-04-06 19:55:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:warp_scroll": {
     "criteria": {
       "has_warp_scroll": "2025-04-06 18:33:30 +0000"
@@ -720,6 +744,12 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:infernal_dunes": "2025-04-06 19:41:21 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_cold": "2025-04-06 19:53:31 +0000"
     },
     "done": false
   },
