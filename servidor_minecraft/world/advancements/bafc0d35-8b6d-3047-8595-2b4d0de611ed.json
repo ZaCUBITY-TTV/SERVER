@@ -909,5 +909,11 @@
     },
     "done": true
   },
+  "inventorypets:pixie": {
+    "criteria": {
+      "crafting_table": "2025-04-06 09:33:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
