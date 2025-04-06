@@ -8,6 +8,9 @@
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: -614, y: 63, z: -1129, time: 1743878112169L }
 		{ dim: "minecraft:overworld", x: -1150, y: 19, z: -1207, time: 1743965552216L, xRot: 15.45013f, yRot: -92.56125f }
+		{ dim: "minecraft:overworld", x: -1147, y: -28, z: -1240, time: 1743965901833L, xRot: 23.099874f, yRot: -34.960155f }
+		{ dim: "minecraft:overworld", x: -620, y: 66, z: -1130, time: 1743965953056L, xRot: -16.649973f, yRot: 86.08482f }
+		{ dim: "minecraft:overworld", x: -1163, y: -28, z: -1220, time: 1743966415045L, xRot: 9.750042f, yRot: -74.529785f }
 	]
 	homes: {
 		hoem: { dim: "minecraft:overworld", x: -652, y: 69, z: -1162, time: 1743964424241L, xRot: 21.60006f, yRot: 81.13488f }
