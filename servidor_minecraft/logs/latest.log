@@ -5623,3 +5623,5 @@ BCLib - Nether BiomeSource (5ecfedb4)
 [06Apr2025 12:13:35.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar left the game
 [06Apr2025 12:13:35.136] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benomgwar
 [06Apr2025 12:35:37.625] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/147, l='ServerLevel[world]', x=-660.45, y=72.50, z=-1176.75] died, message: 'Armorer hit the ground too hard'
+[06Apr2025 13:04:30.421] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[06Apr2025 13:04:30.422] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
