@@ -4,7 +4,7 @@
 	owner: "bafc0d35-8b6d-3047-8595-2b4d0de611ed"
 	ranks: {
 		bafc0d35-8b6d-3047-8595-2b4d0de611ed: "owner"
-		1c39d05b-5a4d-3171-a4a2-4419a39d22fd: "invited"
+		1c39d05b-5a4d-3171-a4a2-4419a39d22fd: "member"
 	}
 	properties: {
 		"ftbteams:display_name": "BEN & ZAC"
@@ -28,6 +28,8 @@
 	message_history: [
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1743874690948L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ZaCUBITY\"}]}" }
 		{ from: "bafc0d35-8b6d-3047-8595-2b4d0de611ed", date: 1743875162196L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"benomgwar\"}]}" }
+		{ from: "bafc0d35-8b6d-3047-8595-2b4d0de611ed", date: 1743964323204L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"benomgwar\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1743964325448L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"benomgwar\"}]}" }
 	]
 	extra: { }
 }

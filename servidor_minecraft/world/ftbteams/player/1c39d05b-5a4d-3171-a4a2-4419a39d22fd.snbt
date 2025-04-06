@@ -2,9 +2,7 @@
 	id: "1c39d05b-5a4d-3171-a4a2-4419a39d22fd"
 	type: "player"
 	player_name: "benomgwar"
-	ranks: {
-		1c39d05b-5a4d-3171-a4a2-4419a39d22fd: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "benomgwar"
 		"ftbteams:description": ""
