@@ -313,6 +313,7 @@
       "minecraft:creeper": "2025-04-05 18:20:24 +0000",
       "quark:forgotten": "2025-04-06 18:39:33 +0000",
       "minecraft:witch": "2025-04-05 18:25:29 +0000",
+      "minecraft:cave_spider": "2025-04-06 18:43:31 +0000",
       "minecraft:zombie": "2025-04-05 18:14:39 +0000"
     },
     "done": false
@@ -580,11 +581,23 @@
     },
     "done": false
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-04-06 18:49:33 +0000"
+    },
+    "done": true
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-04-06 18:34:13 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-04-06 18:49:03 +0000"
+    },
+    "done": false
   },
   "inventorypets:illuminati": {
     "criteria": {
