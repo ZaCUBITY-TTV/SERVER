@@ -915,6 +915,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-04-06 16:49:50 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:mycologist": {
     "criteria": {
       "green_bioshroom": "2025-04-06 16:38:55 +0000"
