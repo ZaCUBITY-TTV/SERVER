@@ -915,9 +915,27 @@
     },
     "done": true
   },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-04-06 17:12:42 +0000"
+    },
+    "done": true
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-04-06 16:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-04-06 17:11:11 +0000"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2025-04-06 17:17:28 +0000"
     },
     "done": true
   },
@@ -926,6 +944,18 @@
       "green_bioshroom": "2025-04-06 16:38:55 +0000"
     },
     "done": false
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2025-04-06 17:21:48 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-04-06 17:12:42 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
