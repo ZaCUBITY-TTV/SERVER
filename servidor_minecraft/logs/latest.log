@@ -5694,3 +5694,6 @@ BCLib - Nether BiomeSource (5ecfedb4)
 [06Apr2025 13:33:38.287] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [06Apr2025 13:33:38.287] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [06Apr2025 13:33:38.287] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER/servidor_minecraft/bclib-sync (allowDelete=true)
+[06Apr2025 13:34:05.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benomgwar lost connection: Timed out
+[06Apr2025 13:34:05.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar left the game
+[06Apr2025 13:34:05.536] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benomgwar
