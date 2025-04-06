@@ -915,5 +915,11 @@
     },
     "done": true
   },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "green_bioshroom": "2025-04-06 16:38:55 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
