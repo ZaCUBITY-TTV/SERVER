@@ -223,6 +223,7 @@
       "porkchop": "2025-04-05 13:52:23 +0000",
       "apple": "2025-04-05 13:45:09 +0000",
       "potato": "2025-04-05 09:14:39 +0000",
+      "supplementaries:candy": "2025-04-06 18:18:16 +0000",
       "pumpkin_pie": "2025-04-05 13:37:27 +0000",
       "bread": "2025-04-05 09:19:05 +0000",
       "golden_apple": "2025-04-05 14:34:24 +0000",
@@ -321,6 +322,7 @@
       "minecraft:spider": "2025-04-05 12:59:39 +0000",
       "minecraft:piglin_brute": "2025-04-05 14:56:39 +0000",
       "minecraft:creeper": "2025-04-05 14:21:13 +0000",
+      "minecraft:slime": "2025-04-06 18:10:36 +0000",
       "minecraft:wither_skeleton": "2025-04-05 15:07:50 +0000",
       "minecraft:cave_spider": "2025-04-05 09:23:42 +0000",
       "minecraft:piglin": "2025-04-05 14:53:39 +0000",
@@ -978,6 +980,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-06 17:46:32 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_workshop": {
+    "criteria": {
+      "in_tinkers_workshop": "2025-04-06 18:15:51 +0000"
     },
     "done": true
   },
