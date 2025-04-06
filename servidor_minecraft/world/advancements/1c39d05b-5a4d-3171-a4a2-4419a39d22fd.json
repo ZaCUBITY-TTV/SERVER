@@ -181,8 +181,10 @@
       "minecraft:river": "2025-04-05 18:02:41 +0000",
       "minecraft:stony_shore": "2025-04-05 18:02:39 +0000",
       "minecraft:dripstone_caves": "2025-04-06 18:55:27 +0000",
+      "minecraft:grove": "2025-04-06 19:58:13 +0000",
       "minecraft:forest": "2025-04-05 18:02:44 +0000",
       "minecraft:ocean": "2025-04-05 18:02:08 +0000",
+      "minecraft:frozen_peaks": "2025-04-06 20:04:04 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-05 18:22:12 +0000",
       "minecraft:plains": "2025-04-05 18:11:01 +0000"
     },
@@ -632,6 +634,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-06 20:04:27 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/root": {
     "criteria": {
       "incendium:infernal_dunes": "2025-04-06 19:41:21 +0000"
@@ -665,6 +673,12 @@
   "inventorypets:pixie": {
     "criteria": {
       "crafting_table": "2025-04-06 19:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-06 20:05:41 +0000"
     },
     "done": true
   },
@@ -741,11 +755,29 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-06 20:01:17 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:infernal_dunes": "2025-04-06 19:41:21 +0000"
     },
     "done": false
+  },
+  "inventorypets:house": {
+    "criteria": {
+      "crafting_table": "2025-04-06 20:02:55 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:chest": {
+    "criteria": {
+      "crafting_table": "2025-04-06 20:01:42 +0000"
+    },
+    "done": true
   },
   "repurposed_structures:ruins": {
     "criteria": {
