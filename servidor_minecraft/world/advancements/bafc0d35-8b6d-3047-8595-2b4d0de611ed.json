@@ -979,6 +979,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-04-06 19:11:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2025-04-06 17:11:11 +0000"
