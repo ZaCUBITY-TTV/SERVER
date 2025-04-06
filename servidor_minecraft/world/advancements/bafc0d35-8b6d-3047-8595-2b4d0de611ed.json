@@ -919,6 +919,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed": "2025-04-06 19:29:51 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-04-06 17:46:32 +0000"
@@ -954,6 +960,12 @@
       "sorting_chest": "2025-04-06 18:29:28 +0000"
     },
     "done": false
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-04-06 19:30:36 +0000"
+    },
+    "done": true
   },
   "inventorypets:pixie": {
     "criteria": {
@@ -1000,6 +1012,12 @@
   "aether:blue_aercloud": {
     "criteria": {
       "blue_aercloud": "2025-04-06 17:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-04-06 19:28:57 +0000"
     },
     "done": true
   },

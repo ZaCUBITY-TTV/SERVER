@@ -590,6 +590,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-04-06 19:29:49 +0000"
+    },
+    "done": true
+  },
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-04-06 18:49:33 +0000"
@@ -599,6 +605,12 @@
   "create:sturdy_sheet": {
     "criteria": {
       "0": "2025-04-06 19:03:51 +0000"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2025-04-06 19:37:19 +0000"
     },
     "done": true
   },
@@ -627,9 +639,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-06 19:32:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:husbandry/wrench": {
     "criteria": {
       "wrench": "2025-04-06 19:10:29 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-04-06 19:37:04 +0000"
     },
     "done": true
   },
@@ -648,6 +672,12 @@
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2025-04-06 18:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-04-06 19:29:10 +0000"
     },
     "done": true
   },
