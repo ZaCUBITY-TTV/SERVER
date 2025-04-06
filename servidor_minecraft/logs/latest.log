@@ -5439,3 +5439,5 @@ BCLib - Nether BiomeSource (5ecfedb4)
 [06Apr2025 10:21:59.731] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/261, l='ServerLevel[world]', x=-682.54, y=63.00, z=-1273.81] died, message: 'Unemployed was slain by Zombie'
 [06Apr2025 10:39:41.735] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/309, l='ServerLevel[world]', x=-716.91, y=63.00, z=-1270.54] died, message: 'Unemployed was slain by SwankyStella the President'
 [06Apr2025 11:06:34.927] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/146, l='ServerLevel[world]', x=-660.30, y=72.00, z=-1176.29] died, message: 'Weaponsmith hit the ground too hard'
+[06Apr2025 11:57:22.072] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[06Apr2025 11:57:22.073] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
