@@ -5999,3 +5999,32 @@ BCLib - Nether BiomeSource (5ecfedb4)
 [06Apr2025 19:35:23.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZaCUBITY> what
 [06Apr2025 19:35:33.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZaCUBITY> yeah i got it
 [06Apr2025 19:37:19.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Inner Arts]
+[06Apr2025 19:38:52.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 122.26110492329212,0.9375,193.66202844847214
+[06Apr2025 19:38:56.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06Apr2025 19:39:07.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/132405, l='ServerLevel[world]', x=-1019.89, y=69.41, z=-1166.07] died: Undead Knight suffocated in a wall
+[06Apr2025 19:39:16.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[06Apr2025 19:39:52.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[06Apr2025 19:40:13.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06Apr2025 19:41:18.655] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[06Apr2025 19:41:18.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Incendium]
+[06Apr2025 19:41:18.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Time for a Sweat]
+[06Apr2025 19:41:18.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [We Need to Go Deeper]
+[06Apr2025 19:41:21.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -9.363324671907662,0.5800000131130219,4.072734771048999
+[06Apr2025 19:41:21.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2548ms or 50 ticks behind
+[06Apr2025 19:41:21.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Strange Biomes]
+[06Apr2025 19:41:21.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benomgwar has made the advancement [Darude - Firestorm]
+[06Apr2025 19:44:02.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZaCUBITY> did u put the vault?
+[06Apr2025 19:44:10.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benomgwar> didn't work
+[06Apr2025 19:44:17.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZaCUBITY> it has to
+[06Apr2025 19:44:27.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZaCUBITY> it works
+[06Apr2025 19:45:09.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZaCUBITY> done
+[06Apr2025 19:45:14.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benomgwar> ooh sh
+[06Apr2025 19:46:19.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZaCUBITY> its bc this things only have one link aviable
+[06Apr2025 19:46:31.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZaCUBITY> why not put it under ground
+[06Apr2025 19:46:36.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benomgwar> ok
+[06Apr2025 19:46:41.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [So Cheesy]
+[06Apr2025 19:47:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZaCUBITY> igtg gn
+[06Apr2025 19:47:35.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benomgwar> k
+[06Apr2025 19:47:35.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY lost connection: Disconnected
+[06Apr2025 19:47:35.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY left the game
+[06Apr2025 19:47:35.885] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ZaCUBITY

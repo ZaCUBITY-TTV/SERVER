@@ -620,6 +620,36 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-04-06 19:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-06 19:41:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-04-06 19:41:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-06 19:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-06 19:41:18 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-04-06 19:00:50 +0000"
@@ -648,6 +678,12 @@
   "supplementaries:husbandry/wrench": {
     "criteria": {
       "wrench": "2025-04-06 19:10:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-04-06 19:41:21 +0000"
     },
     "done": true
   },
@@ -680,6 +716,12 @@
       "axolotl_bucket": "2025-04-06 19:29:10 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-04-06 19:41:21 +0000"
+    },
+    "done": false
   },
   "idas:tinkers_workshop": {
     "criteria": {
