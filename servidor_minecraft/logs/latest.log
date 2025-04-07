@@ -5476,3 +5476,132 @@ BCLib - The End  BiomeSource (7b546b38)
 [07Apr2025 12:42:42.939] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/225, l='ServerLevel[world]', x=-734.18, y=63.46, z=-1240.30] was struck by lightning LightningBolt['Lightning Bolt'/1301, l='ServerLevel[world]', x=-736.50, y=63.00, z=-1239.50].
 [07Apr2025 12:42:42.940] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/224, l='ServerLevel[world]', x=-735.10, y=61.14, z=-1240.30] was struck by lightning LightningBolt['Lightning Bolt'/1301, l='ServerLevel[world]', x=-736.50, y=63.00, z=-1239.50].
 [07Apr2025 12:42:42.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/223, l='ServerLevel[world]', x=-735.30, y=63.00, z=-1239.30] was struck by lightning LightningBolt['Lightning Bolt'/1301, l='ServerLevel[world]', x=-736.50, y=63.00, z=-1239.50].
+[07Apr2025 12:55:33.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Team Crainer]
+[07Apr2025 12:56:19.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Meet the Meta]
+[07Apr2025 12:56:42.836] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@8ffe93e, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.item.ItemStack.m_41777_()" because "petList[i]" is null
+	at com.inventorypets.pets.petMeta.m_7203_(petMeta.java:222) ~[inventorypets-1.20.1-2.1.3.jar%23451!/:1.20.1-2.1.3]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Apr2025 12:56:44.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [So Meta]
+[07Apr2025 12:56:48.285] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@16736dfb, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.item.ItemStack.m_41777_()" because "petList[i]" is null
+	at com.inventorypets.pets.petMeta.m_7203_(petMeta.java:222) ~[inventorypets-1.20.1-2.1.3.jar%23451!/:1.20.1-2.1.3]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23571!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Apr2025 12:56:49.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Dig it!]
+[07Apr2025 12:58:23.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has completed the challenge [So Very Meta]
+[07Apr2025 12:58:30.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Zymurgist]
+[07Apr2025 12:59:56.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [42]
+[07Apr2025 13:00:04.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Pet Collector]
+[07Apr2025 13:00:04.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Milky Way]
+[07Apr2025 13:02:57.391] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[07Apr2025 13:02:57.392] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Apr2025 13:02:57.393] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[07Apr2025 13:02:57.393] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Apr2025 13:02:57.394] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Created at BlockPos{x=-655, y=69, z=-1157}, Block{betternether:cherry_chair}[facing=north,top=false], Block{minecraft:air}
+[07Apr2025 13:02:57.394] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Creating Chair at BlockPos{x=-655, y=69, z=-1157}, Block{betternether:cherry_chair}[facing=north,top=false]
+[07Apr2025 13:02:57.395] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Created at BlockPos{x=-655, y=70, z=-1157}, Block{betternether:cherry_chair}[facing=north,top=true], Block{minecraft:air}
+[07Apr2025 13:04:19.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has completed the challenge [Generalist]
+[07Apr2025 13:04:19.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Merry Christmas!]
+[07Apr2025 13:05:46.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Wokka Wokka]
+[07Apr2025 13:05:51.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Looter]
+[07Apr2025 13:07:05.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Vainglorious!]
+[07Apr2025 13:09:10.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Heads Up]
+[07Apr2025 13:10:25.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Hot Stuff]
+[07Apr2025 13:10:35.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Friendly Fire]
+[07Apr2025 13:11:37.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -15.444612979638578,0.0,20.3037420922376
+[07Apr2025 13:11:41.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -28.291389297299702,0.24918707874468282,23.183498869705318
+[07Apr2025 13:11:42.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -27.981092919707407,0.17675927506424216,1.2222927461209565
+[07Apr2025 13:11:45.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 4.433158335044254,-0.7477966597462711,28.05321291262203
+[07Apr2025 13:12:11.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 17.624411543034626,0.0,17.551726139115544
+[07Apr2025 13:12:34.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved wrongly!
+[07Apr2025 13:12:37.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 13.108639838370777,0.17675927506424216,13.134308785040275
+[07Apr2025 13:12:38.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -3.8819884305296455,-3.323529123855721,31.959384717461717
+[07Apr2025 13:12:39.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 2.0203528103903636,0.17675927506424216,18.919586121173324
+[07Apr2025 13:12:40.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -3.3828787951757704,0.0,23.98664671182496
+[07Apr2025 13:12:49.525] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6092, l='ServerLevel[world]', x=-632.50, y=72.00, z=-1426.50]
+[07Apr2025 13:12:56.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Leash Your Potential]
+[07Apr2025 13:13:17.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -1.7852212436307582,1.0013359791121417,24.616369490343004
+[07Apr2025 13:13:18.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 3.0214410359423027,-4.0633450538470015,31.030936455514393
+[07Apr2025 13:13:49.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 21.928921105310224,0.001335979112141672,1.9453010014308347
+[07Apr2025 13:13:54.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -7.5055523810352724,1.8232407249357578,-7.366435242790203
+[07Apr2025 13:13:56.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 22.992227639230578,0.24918707874468282,23.287452878053955
+[07Apr2025 13:13:59.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 16.24309821931945,0.2522033402537289,16.16987775179291
+[07Apr2025 13:15:06.417] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Apr2025 13:15:06.429] [Worker-Main-50/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-766, y=80, z=-1917}
+[07Apr2025 13:15:06.429] [Worker-Main-50/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-766, y=80, z=-1916}
+[07Apr2025 13:15:20.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3161ms or 63 ticks behind
+[07Apr2025 13:15:38.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [This is the End]
+[07Apr2025 13:16:20.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 26.69056460872025,0.2522033402537289,26.32248095903742
+[07Apr2025 13:16:20.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 32.0,-5.844478247056884,32.0
+[07Apr2025 13:16:21.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 13.0,-0.5800000131130219,13.0
+[07Apr2025 13:17:29.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 24.0,-12.747796659746271,24.0
+[07Apr2025 13:17:30.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 24.874752499949636,-1.7508129212553172,-2.147770399889623
+[07Apr2025 13:19:22.690] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[07Apr2025 13:19:22.691] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[07Apr2025 13:19:38.346] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=-771, y=80, z=-1920} as the loot table 'idas:chests/minescreate' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[07Apr2025 13:19:39.640] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=-772, y=81, z=-1918} as the loot table 'idas:chests/idasbasic' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[07Apr2025 13:21:13.145] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=-766, y=90, z=-1915} as the loot table 'idas:chests/idaslibrary' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[07Apr2025 13:21:16.342] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=-770, y=90, z=-1913} as the loot table 'idas:chests/idaslibrary' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[07Apr2025 13:22:58.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -16.571486989770733,0.0,2.643641151426664
+[07Apr2025 13:22:59.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -18.168077369775688,0.0,-2.9888064998253867
+[07Apr2025 13:23:00.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -24.16799913507907,-0.3462703824114044,-2.989778761123489
+[07Apr2025 13:23:00.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -16.167262818056997,-0.3462703824114044,-1.9928984567873158
+[07Apr2025 13:23:01.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -19.578178794473047,-0.5800000131130219,-3.973724289320444
+[07Apr2025 13:23:01.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -19.53663666079558,-2.2468000194787976,4.951662477630634
+[07Apr2025 13:23:02.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -14.457783683264665,1.1036092609382138,-0.4020142173858403
+[07Apr2025 13:23:03.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -25.335128595208744,0.11425927506424216,-3.991900475939474
+[07Apr2025 13:23:03.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -31.170325538558586,-3.3462703824114044,-0.9810813818883162
+[07Apr2025 13:23:04.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -15.971162233420614,0.02442408821369213,-0.8900539882986322
+[07Apr2025 13:23:05.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved wrongly!
+[07Apr2025 13:23:05.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -17.224429719148475,0.0,-0.6953691668459214
+[07Apr2025 13:23:06.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -14.65681015645282,0.7541684481838189,-14.446067993898623
+[07Apr2025 13:23:07.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved wrongly!
+[07Apr2025 13:23:08.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -19.88112897382723,0.2522033402537289,-1.300000011920929
+[07Apr2025 13:23:08.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -23.335653942136787,-3.878703159460798,-23.257609080894326
+[07Apr2025 13:23:19.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Smashing Success]
+[07Apr2025 13:23:51.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -21.92500001192093,1.0013359791121417,26.241289893236853
+[07Apr2025 13:23:52.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -12.59691228614497,0.24918707874468282,7.372838599297893
+[07Apr2025 13:23:52.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -12.295314823166791,-0.3462703824114044,21.555269301881935
+[07Apr2025 13:24:05.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Pet Scientist]
+[07Apr2025 13:24:05.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZaCUBITY has made the advancement [Wildcat]
+[07Apr2025 13:24:31.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved wrongly!
+[07Apr2025 13:24:32.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -15.126252240691429,0.1555217529431161,20.833187824142442
+[07Apr2025 13:24:32.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -22.7668683699373,-0.5938211453046591,31.60030222088517
+[07Apr2025 13:24:33.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -17.90404192853157,-0.6883887928273822,21.756004597368474
+[07Apr2025 13:24:35.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 1.23317445834806,0.17675927506424216,25.04528687594575
