@@ -5605,3 +5605,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.item.ItemStac
 [07Apr2025 13:24:32.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -22.7668683699373,-0.5938211453046591,31.60030222088517
 [07Apr2025 13:24:33.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! -17.90404192853157,-0.6883887928273822,21.756004597368474
 [07Apr2025 13:24:35.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 1.23317445834806,0.17675927506424216,25.04528687594575
+[07Apr2025 13:38:15.475] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[07Apr2025 13:38:15.475] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
