@@ -5607,3 +5607,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.item.ItemStac
 [07Apr2025 13:24:35.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZaCUBITY moved too quickly! 1.23317445834806,0.17675927506424216,25.04528687594575
 [07Apr2025 13:38:15.475] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [07Apr2025 13:38:15.475] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[07Apr2025 13:50:59.081] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/12595, l='ServerLevel[world]', x=-345.25, y=70.73, z=-2140.61] died: Honeyed Archer suffocated in a wall
+[07Apr2025 13:58:56.925] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[07Apr2025 13:58:56.925] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
